@@ -10,4 +10,4 @@ sqr_height = pow(float(height), 2)
 
 bmi = float(weight)/sqr_height
 
-print(int(bmi) + "\n")
+print(int(bmi))
